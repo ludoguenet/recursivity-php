@@ -1,0 +1,15 @@
+{
+    "name": "nordcoders/recursivity",
+    "autoload": {
+        "psr-4": {
+            "Nordcoders\\Recursivity\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ludoguenet",
+            "email": "ludovicguenet@gmx.com"
+        }
+    ],
+    "require": {}
+}
